@@ -4,7 +4,7 @@
 
 main()
 {
-    printf("Hello World");
+    printf("Hello World, it is a beautiful day");
 
 }
 
